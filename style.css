@@ -34,3 +34,7 @@ i:hover::before,
 i:hover~i::before {
     color: orange;
 }
+
+.cats:hover {
+    flex-flow: row-reverse;
+}
