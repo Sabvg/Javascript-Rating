@@ -20,19 +20,19 @@ function color(id) {
 
 
 catOne.onclick = function() {
-    color(1);
+    color(5);
 };
 catTwo.onclick = function() {
-    color(2);
+    color(4);
 };
 catThree.onclick = function() {
     color(3);
 };
 catFour.onclick = function() {
-    color(4);
+    color(2);
 };
 catFive.onclick = function() {
-    color(5);
+    color(1);
 };
 
 
